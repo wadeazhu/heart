@@ -23,13 +23,13 @@ const frameIn = [
       },
       // 演示页面
       {
-        path: 'page1',
-        name: 'page1',
+        path: 'generateLoveImg',
+        name: 'generateLoveImg',
         meta: {
-          title: '页面 1',
+          title: '生成信息卡片',
           auth: true
         },
-        component: _import('demo/page1')
+        component: _import('pages/generateLoveImg')
       },
       {
         path: 'page2',

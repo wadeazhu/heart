@@ -25,4 +25,5 @@ export default {
 
 <style lang="scss">
 @import '~@/assets/style/public-class.scss';
+@import '~@/assets/font-icons/iconfont.css';
 </style>

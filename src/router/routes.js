@@ -32,13 +32,13 @@ const frameIn = [
         component: _import('pages/generateLoveImg')
       },
       {
-        path: 'page2',
-        name: 'page2',
+        path: 'loveText',
+        name: 'loveText',
         meta: {
-          title: '页面 2',
+          title: '文案朋友圈',
           auth: true
         },
-        component: _import('demo/page2')
+        component: _import('pages/loveText')
       },
       {
         path: 'page3',

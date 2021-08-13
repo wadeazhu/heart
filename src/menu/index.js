@@ -22,7 +22,7 @@ export const menuHeader = supplementPath([
     icon: 'folder-o',
     children: [
       { path: '/generateLoveImg', title: '生成信息的卡片' },
-      { path: '/page2', title: '页面 2' },
+      { path: '/loveText', title: '文案朋友圈' },
       { path: '/page3', title: '页面 3' }
     ]
   }
@@ -35,7 +35,7 @@ export const menuAside = supplementPath([
     icon: 'folder-o',
     children: [
       { path: '/generateLoveImg', title: '生成信息的卡片' },
-      { path: '/page2', title: '页面 2' },
+      { path: '/loveText', title: '文案朋友圈' },
       { path: '/page3', title: '页面 3' }
     ]
   }
